@@ -64,3 +64,4 @@ football-site/
         └── main.js    # O'yin mantiqiy qismi
 ```
 # GoalZone
+# Goal-Zone
